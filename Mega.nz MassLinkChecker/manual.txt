@@ -1,0 +1,28 @@
+1.
+poner el texto con los links en el archivo links.txt
+put the links inside links.txt archive
+
+
+2
+instala las dependencias con "pip install -r requirements.txt"
+install the requirementes with "pip install -r requirements.txt"
+
+
+2.5
+*como instalar python y pip*
+instalas python desde aqui https://www.python.org/downloads/
+abres una cmd como admin y ejecutas este archivo https://bootstrap.pypa.io/get-pip.py "python /la/ruta/donde/este/el/archivo"
+-advertencia-
+el archivo de pip varia dependiendo de la version de python que uses
+
+*how to install python and pip*
+install python from here https://www.python.org/downloads/
+open a cmd as admin and run this archive https://bootstrap.pypa.io/get-pip.py "python /the/path/where/it/is"
+
+-warning-
+the pip archive depends on what version of python are u using
+
+3
+ejecuta el archivo checker.py
+run checker.py
+

@@ -1,0 +1,445 @@
+(Tutorial) Hacking Etico Avanzado:
+nota: para ver y 
+descargar esta buenisimo https://mega.nz/fm/YJB0GIKY
+https://mega.nz/#F!pmQjSQTJ!_98x8K3Q4w9rqf1LGMlKYQ
+https://mega.nz/#F!pmQjSQTJ!_98x8K3Q4w9rqf1LGMlKYQ
+libros de pragramacion:
+https://mega.nz/#F!k3xlEQCT!nYaypRwx1wCL0nQE49FFEw
+https://mega.nz/#F!rB8SVCCB!pJdjdN3LU9iCx1S6w8GhjA!KIVT1Q4A
+Curso Hacking Wi Fi Desde Cero - Técnicas De Ataque: 
+https://mega.nz/#F!6BQT3JIL!RVb9uDJjtLn6MVu5O-BKMA
+Curso Hacking - Analisis de Vulnerabilidades:
+https://mega.nz/#F!7QJATSpA!cHKaA9luoyIlHixrFMAnIg
+Hackin redes Sociales
+https://mega.nz/#F!IuwzHAwB!zxwFt1AqRfQMwsk_zSm6fg
+Hacking by aletinte(pdf): 
+https://mega.nz/#F!rM5nkDBA!uIoYrMtJedJz1EIM3kVVlw
+Hacking Etico by aletinte(pdf): 
+https://mega.nz/#F!rZJGmAZC!yrrRan6BMrGAR3ey7D2lrQ
+Libros De Programacion: 
+https://mega.nz/#F!aVgjESxA!ry3EEPFQdscJAHyCTPsdpQ
+- Troyano de código abierto para Android.
+Funciones:
+1) Robar SMS de la víctima
+2) Roba los contactos de la víctima
+3) Robar información sobre el dispositivo Android de la víctima:
+1) Información sobre la tarjeta SIM:
+1) Número de teléfono
+2) Nombre del operador de red
+2) Versión de Android (versión y nombre clave)
+3) Modelo de dispositivo
+4) Nombre actual del punto de acceso wifi
+Link:
+https://github.com/KbaHaxor/SocietyPoisonerTrojan
+Introducción al hacking ético.
+https://mega.nz/#!W8xhHbKb!ekmTksPetkWgHdk0ZWfTnCSITs44P_1fXQ5LRkGCTo0
+Hacking Etico Avanzado
+https://mega.nz/#F!DEYy1IAR!k6RJrzRuFQa2grd7mjSy9Q
+https://mega.nz/#!bssRHRiK!BAprcY_r1G99iTiNYR8qEK6orfo_C__NLHdw5gAXY6o
+Kali Linux: Pruebas de Penetración y Hacking Ético Básico (Udemy)
+www.fullengineeringbook.net
+Hacker pdf “super pack”
+https://mega.nz/#F!KVkhXZpD!_OJsO-srVgRNZGpx_L0gvA
+CURSO AVANZADO DE HACKING ETICO
+https://mega.nz/#F!7QtBxBCB!a8phelJMd8tPR6ZxjM-8gA
+PENTESTING CON KALI 2.0.PDF
+https://mega.nz/#!0JE1ibbI!wTksqmzTYKVh8IYk0LkVGPJ-id5llXtY7WG-ZLg6l9s
+Curso de Hacking
+http://www.mediafire.com/file/3pabt56ufzcqgtq/CEH-V8-ESPAÑOL.rar
+Curso de Ethical Hacking en Español Por Mega 
+https://mega.nz/#F!wxcWhZTR!_O2X8gSyQR3apccMTXG27g!8pEU3LzR
+----------------------------------------------------------
+Platzi: Introducción a la Seguridad Informática [Español]
+**3 Links:
+http://ul.to/tqi0iw26
+http://ul.to/jzv408kg
+http://ul.to/qxhf2jgh
+**Katfile:
+http://katfile.com/la2yon5sp54w/VLIntroSeguInfo_By_Blade.part01.rar.html
+http://katfile.com/26hml9lzvf5w/VLIntroSeguInfo_By_Blade.part02.rar.html
+http://katfile.com/ns342kqpxx3j/VLIntroSeguInfo_By_Blade.part03.rar.html
+http://katfile.com/ioeiv7xv4909/VLIntroSeguInfo_By_Blade.part04.rar.html
+http://katfile.com/a60acrxito0b/VLIntroSeguInfo_By_Blade.part05.rar.html
+http://katfile.com/zmw0fox3hj6h/VLIntroSeguInfo_By_Blade.part06.rar.html
+http://katfile.com/et0p6gyojy5h/VLIntroSeguInfo_By_Blade.part07.rar.html
+http://katfile.com/qqjqti9ra5kr/VLIntroSeguInfo_By_Blade.part08.rar.html
+http://katfile.com/3jqfsi8hzqrh/VLIntroSeguInfo_By_Blade.part09.rar.html
+http://katfile.com/z9psh8xfg73x/VLIntroSeguInfo_By_Blade.part10.rar.html
+http://katfile.com/7utxl2jt86u5/VLIntroSeguInfo_By_Blade.part11.rar.html
+http://katfile.com/iloljox1ol0l/VLIntroSeguInfo_By_Blade.part12.rar.html
+**Uploaded:
+http://ul.to/vgkho9u6
+http://ul.to/0f4dm9fx
+http://ul.to/x1nu7ecu
+http://ul.to/r5xegywy
+http://ul.to/323owk0l
+http://ul.to/jzwzhdb1
+http://ul.to/jwh693go
+http://ul.to/piokrlbg
+http://ul.to/4o7ns6iv
+http://ul.to/boc7av8w
+http://ul.to/0win7q64
+http://ul.to/3rtst7cb
+**Uploads:
+https://uploads.to/4xidongomodl
+https://uploads.to/x040kfzypss3
+https://uploads.to/7mhvvebnlewz
+https://uploads.to/isxkg01ic7os
+https://uploads.to/ar5f77q80s0j
+https://uploads.to/pecbu1pmg7wa
+https://uploads.to/76p9kkez66ek
+https://uploads.to/v9m7hrysm9d1
+https://uploads.to/ijo6yui0zcg8
+https://uploads.to/zz1rzrk815o7
+https://uploads.to/lonr8n9m79fr
+https://uploads.to/baq0udlebqug
+**Filefactory:
+https://www.filefactory.com/folder/6978527a1bf69ff3
+**Rapidgator:
+https://rapidgator.net/file/53f19d3b88150f74c22f2e49cc87fcb1/VLIntroSeguInfo_By_Bla
+de.part01.rar.html
+https://rapidgator.net/file/996bd60a7b1dbdd9def2aabcde71c0cd/VLIntroSeguInfo_By_Bla
+de.part02.rar.html
+https://rapidgator.net/file/59d01685b9445e5cc2161812a3437eaa/VLIntroSeguInfo_By_Bla
+de.part03.rar.html
+https://rapidgator.net/file/71fadb7ad9e9dedcbb12522c00693d43/VLIntroSeguInfo_By_Bla
+de.part04.rar.html
+https://rapidgator.net/file/03babe9d16dcd5310da729f4694f593f/VLIntroSeguInfo_By_Bla
+de.part05.rar.html
+https://rapidgator.net/file/61168d2d914b1ee3698f0e8d891d755a/VLIntroSeguInfo_By_Bla
+de.part06.rar.html
+https://rapidgator.net/file/af3f62dae37044d2cb2bdde07ae144f3/VLIntroSeguInfo_By_Bla
+de.part07.rar.html
+https://rapidgator.net/file/066ee9499f9f8348105de72dfcb76adc/VLIntroSeguInfo_By_Bla
+de.part08.rar.html
+https://rapidgator.net/file/eae5079dbf522dd35b0f911d257d9bbc/VLIntroSeguInfo_By_Bla
+de.part09.rar.html
+https://rapidgator.net/file/8febe004066b8466d8c32f05298d8c7a/VLIntroSeguInfo_By_Bla
+de.part10.rar.html
+https://rapidgator.net/file/21496286f9d21f7d0ebb859a57af5795/VLIntroSeguInfo_By_Bla
+de.part11.rar.html
+https://rapidgator.net/file/7b20ab40af478808f7e7c563dd4247fb/VLIntroSeguInfo_By_Bla
+de.part12.rar.html
+-----------------------------------------------------------------------------------
+---
+matemáticas(pdf): 
+https://mega.nz/#F!Yy5ESQZD!np-Rb3MEbN5lFhj5duSsUg
+Ud3my :
+https://mega.nz/#F!lOwVjKxC!TC2syGqAoLnpSBbfPWkv_A
+Curso de Angular 2 en Español - Crea webapps desde cero
+https://mega.nz/#F!9DozlJAa!T4RMsvQu8Oy0NCZe20uQLA
+Git y GitHub Completo Desde Cero: 
+https://mega.nz/#F!sPZCiKqB!ysUURCr-vtPM7C7AINjK5g
+Git un enfoque práctico:
+https://mega.nz/#F!cfRRSTZL!tvfhjz5M2G1FAlrXH-uLCQ
+Git fundamental - Aprende lo importante desde cero:
+https://mega.nz/#F!ZSgBHS4L!u-zu5e3rgRcWsIAwZA6uuQ
+Cursos CódigoFacilito:
+https://mega.nz/#F!ELpRQTzL!m0bk3LCYPhDEUhkNSSxTIQ
+Curso de Frontend con Bootstrap y Foundation: 
+https://mega.nz/#F!SAJhACKL!4uTUqQixk1uLnDEHJjXKPw
+(EDteam) Curso PHP Desde Cero: 
+https://mega.nz/#F!6RZllaSY!uiaWFsCyFXmVdmy32vdiSw
+HTML y Selectores de estilo: 
+https://mega.nz/#F!Pc5wWCzA!H57hGs2u3LXY5_vQ_2o21Q
+Aprende JavaScript desde 0 con 60 ejercicios practicos: 
+https://mega.nz/#F!yMBUGDbS!IxNdD0A5LaNOBvQZfnmdMw
+Auditorias Web (pdf): 
+https://mega.nz/#F!qAw3xA6I!cXlWjuCRYYOJFEKsSAA_A
+Base de Datos (pdf): 
+https://mega.nz/#F!mMpmXRAY!AHF3BTeAvvATNJZ98fktA
+Crea juegos en línea en Html5 con canvas, svg, Json y SQl: 
+https://mega.nz/#F!LUZm2ZJB!--iipsyK_lbSd2ZssmuQUQ
+Curso de Angular 4 avanzado MEAN, JWT, Módulos, Animaciones: 
+https://mega.nz/#F!CAIiBaYa!1mj-Ly4XyyKaRPBEnJsP7g
+Curso de PHP 7 - Desde básico hasta desarrollar un software de venta: 
+https://mega.nz/#F!rJRDXDDb!7D7FqJ_HrSo59-RdkucPOQ
+Curso Oracle PL_SQL-UD3MY: 
+https://mega.nz/#F!qcAHjLaa!ghVvdhAlY7HmMf-BQEN08A
+Cursos WordPress(torrent): 
+https://mega.nz/#F!2UBiHRAD!qgpzKzj9BkDoWtYuzjpy5g
+Dominando WordPress sin Programación, Francisco Aguilera:
+https://mega.nz/#F!3ExhQAbC!H2olfinOv-2k_3LLG4mmAw
+Edteam Curso Git Desde Cero Sistema de control de versiones: 
+https://mega.nz/#F!OYhSRbBT!vZpnnL5Q9QO42mVuOAjLmQ
+GEOMETRIA(pdf): 
+https://mega.nz/#F!zQI1gLQJ!TjFw3E0AVGsUpOi2CzXeUw
+HTML5 y CSS3(pdf): 
+https://mega.nz/#F!uAolGKxL!APEQVjJFHKvVG_73SDeKdA
+JavaScript + Node.js + Express + MongoDB COMPLETO: 
+https://mega.nz/#F!3ZAllKbZ!MW0NTGYZajhMixsFjnKBuw
+Diseño Web Desde Cero a Avanzado 45h Curso Completo:
+https://mega.nz/#F!FCQwkCyQ!g2rlyrbusFZtpeKSZTkGkQ
+jQuery De cero a avanzado mediante ejercicios prácticos:
+https://mega.nz/#F!FuwDQLAY!-clX6-PnF9MJjbnwa7nTCQ
+Curso de iOS 10 y Swift 3 - de Cero a Experto:
+https://mega.nz/#F!EzpwCAzA!XAZJIhpn6CSZTYbc-MbGLA
+Curso de SEO y Posicionamiento en Google:
+https://mega.nz/#F!k3xlSRLQ!LFliVFM1Fj23NZBQwOpmFw
+Crear radio online:
+https://mega.nz/#F!J2RTSDaK!K5YTchDHhC439QvAKfNgqw
+
+https://mega.nz/folder/cexBHD6b#iVqhvZNbe2bl9hPI600he
+nube de 5TB: https://trainbit.com/
+PAGINA DE ESGEEKS (pagina de hackin y ciberseguridad:
+HERRAMIENTA DE KALI LINUX: https://esgeeks.com/raccoon-offensive-security-tool/
+HERRAMIENTA DE KALI LINUX: https://esgeeks.com/como-usar-wireshark/
+HERRAMIENTA DE KALI LINUX: https://esgeeks.com/opensquat-opensource-intelligence-
+osint/
+HERRAMIENTA DE KALI LINUX: https://esgeeks.com/photon-crawler-para-osint/
+HERRAMIENTA DE KALI LINUX: https://esgeeks.com/sifter-escaner-osint-
+vulnerabilidades/
+CURSO DE HTML Y CSS: https://mega.nz/folder/8bY0DAKa#pZbd8QSmrSwqBmGqPIt8Xg
+LIBROS DE CIBERSEGURIDAD PARA MOBILES: https://mega.nz/folder/0HogAaIb#CGBmb-
+7S6EaEnqkeOjkLSQ
+LIBROS DE CIBERSEGURIDAD PARA MOBILES: 
+https://mega.nz/folder/BW5EnILK#yUYfaJzcczFxOYLl5ujLmQ
+ALGORITMOS: https://mega.nz/folder/gewG0a7I#Ku7PR3WSzVhULeUjEZUjOw
+ANALISIS FORENSE: https://mega.nz/folder/JD5wzSgJ#wx9xIn1Kz8XyDVdy1PdbJg
+P. DE BASH: https://mega.nz/folder/bmJjgIzb#cprVsoun5cKTno9CA9jemQ
+P. PYTHON3 HASTA DJANGO: https://mega.nz/#F!i6Rl0I6L!ivaYlNW3Voa5BtpEAMUVYg
+OSINT MASTER EN ESPIONAJA DIGITAL: https://mega.nz/folder/1HRH1aaD#P_cSG8uc-
+B_DhlJTSOH4lQ
+C. de HACKING ETICO: https://mega.nz/#F!KVsE2YxL!jBVn-78JCm05_ElQrBogVw
+HTML5: https://mega.nz/#F!wbJlRa6B!CU7irpbx3WJC9y9kMX71rQ
+C.C DE INTELIGENCIA ARTIFICIAL CON PYTHON: 
+https://mega.nz/folder/WrYF0AaI#1j2eqZDiM5JCwVTWU1E_iw
+C. DE NMAP: https://mega.nz/folder/DLIB0KRQ#MIamn5plv1tSr-pnvnN3ew
+C DE XSS Y BEEF:https://mega.nz/folder/iH4XCRZI#41kTuFPjY07Vid0UpKV1lw
+C. UNDEMY DE CSS: https://mega.nz/#F!BIREBKpI!HPaMNlIJJ4p47MFWCvaUzg
+Desarrollo web paso a paso curso de undemy:https://mega.nz/#F!IQAnEY5Z!N579Iyk-
+pBSBD8shKAOqFA
+C. HTML y CSS: https://mega.nz/#F!BEIxlYjT!yk0iF9dZcp13vdFoytWstw
+ADA:https://mega.nz/folder/xO5ikYYa#wQ0mAwXl7N7OIxmc18FknA
+C.C de KALI LINUX:https://mega.nz/folder/vA53iYiB#98ECD3w8EV95BT9tjHDLcQ
+C.  C, C+ y todos los C: https://mega.nz/folder/tDR2iQjK#QhSRAeih14l2k2-bV1UfQQ
+Hardware:https: //mega.nz/folder/NWpUjKQJ#Nn3sr6v_EC_6pDzt9-tODw
+IP:https: //mega.nz/folder/lb52CCJZ#BmrQuTOrVCk9Hn2Fn94jJg
+JAVA:https: //mega.nz/folder/dDh0zIDB#p5jCtOW-jfA6DQ3afj8VEw
+MATLAB:https: //mega.nz/folder/pCwm2KyD#eg_7jiJ8b0pT9NeRMsQsqQ
+MySQL:https: //mega.nz/folder/YPgQyCpK#-Y40TBzmjDvRP0Vq61Pyqg
+UNITY:https://mega.nz/folder/wK4ShSBR#Y8R0VwT1IiasK16RpXSX8w
+un poco de la Deeb web:https://mega.nz/folder/Rew0gaYY#3zs6s-Ld3P75Lrsfa7P1sA
+un poco de hacking:https://mega.nz/folder/cXQSFIqK#Ifkf0SPPCvXrQj62rbDeBA
+HackxCrack: https://mega.nz/folder/pfZFAY5Y#kU54IiIvV1czUFbmbsXizw
+servidores: https://mega.nz/folder/AUdDkQ6a#JnEwbV_ZbwsoCxFQd-4j-A
+ciberseguridad: https://mega.nz/folder/oI9XxLgK#VTkhQYOZBFwbTH6j-EVnpg
+Manual de Debian: 
+https://mega.nz/file/VugjTRrI#5J_wmSbk_crjjnj2AbGlU2AAXqQJFBV_vu1Trx6yPQE
+hacking etico undemy: https://mega.nz/folder/myICWAxb#DMOKkcbQTROQbIk_Ak6nyA
+https://mega.nz/folder/cexBHD6b#iVqhvZNbe2bl9hPI600heQ
+CARPETA 47 LIBROS DE HACKER https://mega.nz/#F!RRRHmBiC!MXUgejPHX_cLOZqMp3gg4A
+LIBROS DE INFORMATICA https://mega.nz/#F!JE4xAART!SKWfdYeYPdBySXEzSMmHdg
+CARPETA ACURRUCA, PARA DETECTAR VULNERABILIDADES WEB https://mega.nz/#F!gABUDCRC!
+OLnaq7mSXYLwjLq-u9jzvg
+CARPETA ADM MICROSOFT WINDOWS SERVER 2: https://mega.nz/#F!sdJHTRQK!
+gFJ0ToNj251Rk01vdKhryg
+CARPETA ALGEBRA BALDOR https://mega.nz/#F!VcB0CDpB!B36aEAlmOXpypnLJ1H-ZOg
+CARPETA CURSO ANGULAR: https://mega.nz/#F!pd4AybyT!ZZTClzhN1GJfV49semwNuQ
+CARPETA ANONYMUS TOOLS: https://mega.nz/#F!wRBXFKRA!NHp2nHtmyga9p2pjn0y2BQ
+CARPETA BUSCANDO VULNERABILIDAD: https://mega.nz/#F!5VRQRIZa!S9UqtB2YNYz2tHuVGbivYg
+CARPETA CREACION DE EXPLOITS https://mega.nz/#F!ZcgmGYLZ!rX3q_b7hrzNyG2kX7wjXuA
+CARPETA CURSO DE BATCHS: https://mega.nz/#F!cc50VYbR!OXE_P6qYhY7EPKaHygRpbA
+CARPETA CURSO DE PERL+MANUALES: https://mega.nz/#F!gJgzkbqR!f55hOXM8sR2aZIfPPMMswg
+CARPETA CURSO DE BOOTSTRAP 3: https://mega.nz/#F!gEZEyK4b!xhqeDdOvBk1o5feEvtipqg
+CARPETA CURSO DE HT: https://mega.nz/#F!FZ4WHYIK!aut73QZhXlAlQxZUMht85g
+CARPETA CURSO DE HTML Y CSS: https://mega.nz/#F!4MRyxCgI!sD1SYCXRyA-YIqeK_5a8Xg
+CARPETA CURSO DE LINUX: https://mega.nz/#F!JAYFUCaa!bYf4uexnwAIC3StJie3ZBQ
+CARPETA CURSO DE NODE: https://mega.nz/#F!xUxkBZZZ!QOh4vOMuzXaE_CF0zE9Ukw
+CARPETA CURSO DE PYTHON: https://mega.nz/#F!sEInnRCK!m0UplIKhQ4gAmKw83Nps8Q
+CARPETA CURSO DE RESPONSIVE WEB DESING: https://mega.nz/#F!NZBlFYDZ!
+YUt4RlpTsSircIJ6vAmIFQ
+CARPETA CURSO DJANGO PROFESIONAL: https://mega.nz/#F!UdAm1boS!pU1FP0QPwY-
+LchGv5OJ5Qg
+CARPETA CURSO EH Y CEHv8: https://mega.nz/#F!pNZnTT5K!kUrdcyqQALR2B_zKAkI8IQ
+CARPETA CURSO LENGUAJE JAVASCRIP: https://mega.nz/#F!ZI5STRzD!
+HPtywhi29J_DjrJwBrNV7g
+CARPETA CV9 TOOLS: https://mega.nz/#F!IU4lgYRY!YEBY6aI-Lt6ktMfTpakzJQ
+CARPETA DVD HACKING MEXICO: https://mega.nz/#F!5YQVXZKZ!ClGnFFA2Cpd8Ni-pwXBNzA
+CARPETA EL ARTE DE LA INTRUICION: https://mega.nz/#F!sRJhlLAT!keORu4lBbHTYG-
+PSav5wAg
+undemy python: https://mega.nz/#F!RRFEyIYB!jRVC4FK87WmvtEbgSsSp5g
+62 hacking tool: https://mega.nz/#!i8gEyK6B!
+3jKP0EExuxPXni6dFOMFg5zlEpgkXmRTI7oQvn5Jkfk
+C. de Python: https://mega.nz/folder/3xgW2aDD#wyA7teO6ZZWwZIbR-6u9bw
+https://drive.google.com/file/d/10vPaO9-M0Vy_PZH6L0c0Z-qBQHncA4Hv/view
+ *Following Sites Provide Free VPS* 
+http://vpswala.org/
+http://ohosti.com/vpshosting.php
+https://gratisvps.net/
+https://my.letscloud.io/sign-up/
+https://developer.rackspace.com/
+https://www.vultr.com/
+https://www.ionos.co
+https://www.cloudsigma.com/
+https://www.digitalocean.com/
+http://ezywatch.com/freevps/
+https://yellowcircle.net/
+https://www.ctl.io/free-trial/
+https://www.ihor.ru/
+https://www.neuprime.com/l_vds3.php
+https://www.apponfly.com/en/
+https://www.skysilk.com/
+https://sadd.io/
+UNITY 2D curso: https://drive.google.com/drive/folders/1UB_rDpjlSTCCvhSO-
+9f5PREcNtwMx755?usp=sharing
+SASS edteam
+https://mega.nz/folder/WOwUkAoZ#CPgc42v3-K05dXM0q_AUPw
+laravel udemy parte 1
+https://mega.nz/folder/1eIhEArD#NhKQlQRIVKmgiTKK2HWmhA
+aprende javascript desde cero con 60 ejercicios
+https://mega.nz/folder/Iz5gBb4D#wIsNDvIqcdn7VjabbkUG7g
+base de datos desde cero edteam
+https://mega.nz/folder/NYdlVKbS#wAHY-F4nduP2HW-vkq7O4A
+Administrador de servidores edteam parte 1
+https://mega.nz/folder/iWoxzb4J#NZY_SgSlF2zbKDn5f-HZtA
+Adminstrador de servidores edteam parte 2
+https://mega.nz/folder/RQwnXRrK#ZFwsutc_yF3oaz1a9iV3AA
+rxjs de cero hasta los detalles parte 1
+https://mega.nz/file/MRlhjSQa#8SI_W0pwIzEvvC50-fuiBv5hglw7O1hK4p45pTm0rTI
+rxjs de cero hasta los detalles parte 2
+https://mega.nz/file/tdt1CICB#e5X_vBKerXyKkJ2IQbgI3vR2AwO_j0FZJNAEJ80JYj8
+rxjs de cero hasta los detalles parte 3
+https://mega.nz/file/FNtVCIYD#BfT_od1AjCXu4Sny2kFqaeS_qc1wCxBxmnPh9pUk0iM
+react guia completa hooks - udemy
+https://mega.nz/folder/IAVgyA4R#2wralhA43_rKXuNqhlYpKg
+base de datos fundamentos de udemy
+https://mega.nz/folder/xCpXnQ5R#y_5jW-UrNJ64T6azw7DFpw
+master desarrollo android java con kotlin
+https://mega.nz/folder/dXpBmKKR#huIBaFpEoXFUJ5djR1tCSw
+Angular  de cero a experto creando aplicaciones udemy
+https://mega.nz/folder/F15BGa7Q#iRO2NJ3iJ_GP5ZLXZxgmrw
+megacurso javascript incluye jquery y ajax
+https://mega.nz/folder/KTgHUJAT#21GxOGx9KS0822sICR_C6Q
+marketing digital udemy
+https://mega.nz/folder/DuxBiaza#uhqskf2zM7r8tGye7pIz7Q
+VUE udemy
+https://mega.nz/folder/D0lkEQTQ#nPXzjNU1cV9sEFeYGpe5HQ
+API restful conlaravel 5.4 guia definitiva
+https://mega.nz/folder/8T4T3BAZ#-M3deKeDc2dC_ZCqg4J9Dw
+scrum edteam
+https://mega.nz/folder/gX5wnaoT#W--Ox065VA-sebByenyKKA
+react edteam
+https://mega.nz/folder/ZRsRiCCJ#3pyg3koirVUeK8i0Dot0bQ
+RSLogix Studio5000
+https://mega.nz/folder/Nxo1EKJQ#GTL7loUdjVWNBQ4BdbdGSQ
+patrones de diseño 1,2,3
+https://mega.nz/folder/6WYUVI4D#-EBvPQABuraBRwuqcHhrfw
+https://mega.nz/folder/POAkGQKA#RTijheBHt0aPNUsObriRcA
+https://mega.nz/folder/uCQDWSYA#ZrduCA6OdAjAY8K7JK5lLA
+desarrollo web con spring boot 5 desde udemy
+https://mega.nz/folder/UNVCUAjJ#rRGmn14tI9JjRhfAlofebQ
+linux desde cero
+https://mega.nz/folder/7y5z1QxI#29IykPcFn-poqnL98wO9hQ
+platzi fundamentos de c#con net core
+https://mega.nz/folder/MwVwXKqb#XykuJAGbunKsvHMKECK0yg
+Python udemy - parte 1
+https://mega.nz/folder/btNSgKrD#b8mxGHrVX4q2qAXmOV-bDw
+Python udemy - parte 2
+https://mega.nz/folder/XwkBHADD#fjRTFGDOuiCUeJPFTTqKtA
+diseño y desarrollo web con bootstrap 4 incluye 8 proyectos
+https://mega.nz/folder/4UtCGShY#qdEBWx0QZPEX5_b4UFlLxA
+PHP udemy
+https://mega.nz/folder/t4ZmUSbZ#1o5Tf_lxPoBSHPuIk4_yQw
+base de datos desde cero edteam
+https://mega.nz/folder/NYdlVKbS#wAHY-F4nduP2HW-vkq7O4A
+nodejs desde cero udemy
+https://mega.nz/folder/f3YG3SxR#nzwsvZf_9KwNmuYxjpt8WA
+desarrollo web con spring boot 4 desde udemy
+https://mega.nz/folder/H3xXWabR#NDpR-3VPXu0MzN3mMzZy4g
+aprende c++ básico intermedio avanzado
+https://mega.nz/folder/o0h0BBqS#aGRFEoY_r3PWUpsLu57FHQ
+curso de sql y mysql platzi
+https://drive.google.com/file/d/1402bfDb5LhkTzuqdp1O7svamtBujB-Tr/view
+https://drive.google.com/file/d/17aLIl6DNh3ZhvOnCuZajpCCYHAqYCL0L/view
+https://drive.google.com/file/d/1tLX1HchwsEC54R0V9fgpqlIKejLkWj-9/view
+PACK LIBROS RED USERS
+Contenido: Informática, Programación, Fotografía, Diseño, Hacking, Seguridad, 
+Hardware.
+Peso: 11.28 GB
+Descarga: 
+https://mega.nz/folder/lRcFQQzL#aW_38L7Ut9Qck1FMuJoF5w
+*GET UDEMY COUPONS FOR FREE*
+1. https://sitepoint.us/all
+2. https://www.real.discount/new/
+1). https://www.freshercooker.in
+2). https://www.discudemy.com
+3). http://Real.discount
+4). https://udemycoupon.learnviral.com
+5). https://couponscorpion.com
+6). https://udemyfreebies.com
+7). http://udemycoupon.discountsglobal.com
+GET UDEMY COUPONS FOR FREE
+https://www.hacking-tutorial.com/hacking-tutorial/tutorial-hacking-facebook-using-
+phishing-method-fake-facebook-website/
+http://www.fishskb.co.uk/
+https://savage.coupons/fishing-clash-gift-codes/
+https://freelearningtech.in/how-to-hack-facebook-using-phishing-attack/
+https://hackingblogs.com/phishing-page/
+https://thezerohack.com/hacker-hack-facebook-prevention
+https://www.waftr.com/hack-facebook-account-free-online-without-password-step/
+https://www.faceaccess.co/
+https://www.fbtracker.org/
+https://www.fbhackpass.com/fb-hack.php
+https://hcracker.com/en/
+https://hackpasswordsonline.com/
+https://en.faceckear.com/
+https://hackingaccounts.com/
+https://www.siczine.com/
+https://learnhacker.com/hack-facebook-id/
+https://learnhacker.com/hack-facebook-id/
+The Complete Penetration Testing Bootcamp
+Learn Penetration Testing The Right Way! Learn All The Ethical Hacking & 
+Penetration Testing Techniques Used By Hackers
+Spread the word: @ethicalhackx @ethicalhackxcom
+How to Extract - https://t.me/ethicalhackx/430 
+How to Extract Video - https://t.me/ethicalhackx/343 
+File1- https://t.me/ethicalhackx/576
+File2- https://t.me/ethicalhackx/577
+File3- https://t.me/ethicalhackx/578
+File4- https://t.me/ethicalhackx/579
+File5- https://t.me/ethicalhackx/580
+File6- https://t.me/ethicalhackx/581
+Password- https://t.me/ethicalhackx/582
+Compressed Total Size :  5.10GB
+Extracted Size : 6.04 GB
+Happy Hacking !!
+https://geekprank.com/hacker/
+https://geekprank.com/hacker/
+El primer link contiene:
+*Curso de Pentesting*
+(Penetración y Testing)
+*Cursos Hacking*
+Cursos Informática
+(Amplio contenido 953 gb)
+*Documentos de WhatsApp*
+(Novelas, virus, Informatica pdfs)
+*Esteganografía*
+*Ingles*
+*Mikrotik*
+*Pdfs drive*
+(8 gbs de pds de informática)
+*Virus pdf*(Pdfs sobre virus)
+*Doc con links*
+(Apartado de links de mega)
+https://mega.nz/folder/n943WZ7A#KYwTaVuaiqbfV1N7GHKD6A
+El segundo link contiene:
+*Biblioteca*
+(5 gb de pdfs de programación y mas)
+*Cursos Hacking*
+*Importados*
+(Gran variedad de cursos 600 gbs)
+7onla
+(La carpeta personal de 
+7onla)
+*Carding desde 0*
+https://mega.nz/folder/idB3wKDD#Z3ZC6FesBiSRS3mzgn3O6A
+El tercer link contiene:
+*Agencias* (Informacion de agencias)
+*Cursos Platzi, Crehana y mas*
+(700 gbs de cursos de varias plataformas)
+*Marketing*
+*Medicina*
+(8 gbs de pdfs de medicina)
+*Programacion*   (mas de un Tb en pdfs y videos)
+https://mega.nz/folder/nUQE1IxT#DLWqQV4Nygd2VCypE2E-6w
