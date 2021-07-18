@@ -14,7 +14,7 @@ lista = []
 
 
 def banner():
-    print(rainbowtext.text('\n\necho con <3 por Verduxo, con el apoyo de !Hacking Of The World'))
+    print(rainbowtext.text('\n\nhecho con <3 por Verduxo, con el apoyo de !Hacking Of The World'))
     print(rainbowtext.text('''
 
   ._.  ___ ___  ________   ___________ __      __ 
